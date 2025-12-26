@@ -6,6 +6,7 @@ var x =10;
 function test(){
     var y =120;
 }
+//console.log(y);
 console.log(x);
 
 var pop = "hi js";
@@ -59,8 +60,30 @@ console.log(m);
 // let len =5;
 
 let len =4;
-len =5;
+len =5; // reintialize is possible with let but cannot be redeclared
 console.log(len);
+
+// const 
+const mg = "hey Naveen";
+//mg = "hey tom"
+console.log(mg);
+
+const days= 7;
+//days=10;
+console.log(100 * days);
+
+// var p;
+// console.log(p);
+
+// let p;
+// console.log(p);
+
+const p=10;
+console.log(p);
+
+
+
+
 
 
    
